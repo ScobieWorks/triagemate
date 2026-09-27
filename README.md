@@ -54,6 +54,8 @@ The tests mock the GitHub API and verify the core logic.
 MIT
 
 
+<!-- ORION-MONETIZATION:START -->
 ## Support
 
-If this project saved you time, optional support is welcome: https://paypal.me/Damonwill
+Donate to support continued development and bug fixes: https://paypal.me/Damonwill.
+<!-- ORION-MONETIZATION:END -->
